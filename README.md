@@ -1,4 +1,4 @@
-# StackLend: Decentralized Lending Protocol
+**# StackLend: Decentralized Lending Protocol
 
 ## Overview
 StackLend is a decentralized lending protocol built on the Stacks blockchain. It enables users to deposit tokens as collateral, borrow tokens against their collateral, and repay loans while maintaining a transparent and trustless system.
@@ -86,4 +86,4 @@ Contributions are welcome! Please open an issue or submit a pull request to prop
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For inquiries or collaboration, contact [your email/contact info].
+For inquiries or collaboration, contact [your email/contact info].**
